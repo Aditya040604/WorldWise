@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Chateaumeillant",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-07-14T13:24:16.767Z",
+      "notes": "Harmonious ",
+      "position": {
+        "lat": "46.57426444805137",
+        "lng": "2.1934332063406585"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Ficulle",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-07-16T09:17:28.326Z",
+      "notes": "mesmerizing\n",
+      "position": {
+        "lat": "42.82898922349888",
+        "lng": "12.127164241518496"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Nuuk",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2025-07-16T09:17:53.046Z",
+      "notes": "shit",
+      "position": {
+        "lat": "64.49062418653344",
+        "lng": "-45.65853611214433"
+      },
+      "id": 98443200
+    }
+  ]
+}
